@@ -1,10 +1,10 @@
-### Olá  me chamou Sávio Gomes  👋
+### Olá  me chamo Sávio Gomes  👋
 
 
 - 🔭 Hoje em dia trabalho com desenvolvimento Web Principalmente PHP
-- 🌱 Estou estudando Javascript PHP dentre outras tecnologias voltas para desenvolvimento Web
-- 👯 Estou colaborado atualmente com meu ambiente de trabalho 
-- 📫 Contate-me no email ou linkdin saviogomesdasilvadev@gmail.com
+- 🌱 Estou estudando atualmente Javascript e suas tecnologias web e mobile , Framework's como o Laravel e Lumen , banco de dados  e PHP. Dentre outras tecnologias voltadas para Desenvolvimento de aplicações Web e mobile
+- 👯 Estou colaborando atualmente com meu ambiente de trabalho 
+- 📫 Contate-me no email ou linkedin saviogomesdasilvadev@gmail.com
 - 
 - ⚡ A vida é bela 
 
