@@ -1,4 +1,4 @@
-### Olá  me chamo Sávio Gomes  👋
+### Olá  me chamo Sávio Gomes da silva  👋
 
 
 - 🔭 Hoje em dia trabalho com desenvolvimento Web Principalmente PHP
@@ -15,8 +15,7 @@
 </div>
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="portuga02-ReactNative"   src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
+  <img align="center" alt="portuga02-ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="portuga02-laravel"  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="portuga02-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="portuga02-reactjs"   src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
