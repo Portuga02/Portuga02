@@ -1,7 +1,7 @@
 ### Olá  me chamo Sávio Gomes da silva  👋
 
 
-- 🔭 Hoje em dia trabalho com desenvolvimento Web Principalmente PHP
+- 🔭 Hoje em dia trabalho com desenvolvimento Web Principalmente PHP e Javascript
 - 🌱 Estou estudando atualmente Javascript e suas tecnologias web e mobile , Framework's como o Laravel e Lumen , banco de dados  e algumas linguagems de programação especificas como o PHP e C# e suas tecnologias atuais . Dentre outras tecnologias voltadas para Desenvolvimento de aplicações Web e mobile
 - 👯 Estou colaborando atualmente com meu ambiente de trabalho 
 - 📫 Contate-me no email ou linkedin saviogomesdasilvadev@gmail.com
