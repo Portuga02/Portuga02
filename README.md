@@ -2,18 +2,15 @@
 
 
 - 🔭 Hoje em dia trabalho com desenvolvimento Web Principalmente PHP e Javascript
-- 🌱 Estou estudando atualmente Javascript e suas tecnologias web e mobile , Framework's como o Laravel e Lumen , banco de dados  e algumas linguagems de programação especificas como o PHP e C# e suas tecnologias atuais . Dentre outras tecnologias voltadas para Desenvolvimento de aplicações Web e mobile
+- 🌱 Estou estudando atualmente Javascript e suas tecnologias web e mobile , Framework's como o Laravel e Lumen , banco de dados  e algumas linguagems de programação. 
+na maior parte do tempo semppre  como o PHP e Javascript Java(mobile) Kotlin e suas tecnologias atuais. Dentre outras tecnologias voltadas para Desenvolvimento de aplicações Web e mobile
+
 - 👯 Estou colaborando atualmente com meu ambiente de trabalho 
 - 📫 Contate-me no email ou linkedin saviogomesdasilvadev@gmail.com
-- 
 - ⚡ A vida é bela 
 
- <div>
-  <a href="https://github.com/Portuga02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=portuga02&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portuga02&layout=compact&langs_count=7&theme=monokai"/>
-</div>
-<div style="display: inline_block"><br>
+### Stack's
+<div style="display: inline_block"> <br>
 
   <img align="center" alt="portuga02-ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="portuga02-laravel"  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
