@@ -52,7 +52,7 @@ na maior parte do tempo semppre  como o PHP e Javascript Java(mobile) Kotlin e s
   <a href = "mailto:saviogomesdasilvadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/savio-gomes-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation]([https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg))  <!--saudo e declaro à ilustre mestra rafaballerinia todos os rireitos reservados a sua imagem da snake animation -->
+  ![Snake animation]([[https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg])  <!--saudo e declaro à ilustre mestra rafaballerinia todos os rireitos reservados a sua imagem da snake animation -->
  
 </div>
 
