@@ -2,8 +2,7 @@
 
 
 - 🔭 Hoje em dia trabalho com desenvolvimento Web Principalmente PHP e Javascript
-- 🌱 Estou estudando atualmente Javascript e suas tecnologias web e mobile , Framework's como o Laravel e Lumen , banco de dados  e algumas linguagems de programação. 
-na maior parte do tempo semppre  como o PHP e Javascript Java(mobile) Kotlin e suas tecnologias atuais. Dentre outras tecnologias voltadas para Desenvolvimento de aplicações Web e mobile
+- 🌱Atualmente pós graduado em engenharia de software  e especialista em desenvolvimento web e outras especializações , estou sempre aprimorando meus conhecimentos e estudando novas tecnologias e arquiteturas 
 
 - 👯 Estou colaborando atualmente com meu ambiente de trabalho 
 - 📫 Contate-me no email ou linkedin saviogomesdasilvadev@gmail.com
