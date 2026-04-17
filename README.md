@@ -13,7 +13,7 @@ Sou um **Engenheiro de Software & Especialista em Desenvolvimento Web** focado e
 - 👨‍💻 Atualmente focado em **Arquitetura de Software (SOLID, Design Patterns)**.
 - 🎓 Pós-graduado em Engenharia de Software e Especialista em Web Dev.
 - 🛠️ Experiência em modernização de sistemas legados e criação de APIs RESTful.
-- 📍 Baseado em Recife - PE.
+- 📍 Recife - PE.
 
 ---
 
