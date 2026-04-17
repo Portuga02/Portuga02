@@ -1,58 +1,74 @@
-### Olá  me chamo Sávio Gomes da silva  👋
+# Olá, eu sou o Sávio Gomes! 👋
 
-
-- 🔭 Hoje em dia trabalho com desenvolvimento Web Principalmente PHP e Javascript
-- 🌱Atualmente pós graduado em engenharia de software  e especialista em desenvolvimento web e outras especializações , estou sempre aprimorando meus conhecimentos e estudando novas tecnologias e arquiteturas 
-
-- 👯 Estou colaborando atualmente com meu ambiente de trabalho 
-- 📫 Contate-me no email ou linkedin saviogomesdasilvadev@gmail.com
-- ⚡ A vida é bela 
-
-### Stack's
-<div style="display: inline_block"> <br>
-
-  <img align="center" alt="portuga02-ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="portuga02-laravel"  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img align="center" alt="portuga02-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="portuga02-reactjs"   src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="portuga02-vue"   src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img align="center" alt="portuga02-jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
-  <img align="center" alt="portuga02-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="portuga02-css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="portuga02-Js"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1">
-  <img align="center" alt="portuga02-bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="portuga02-java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="portuga02-c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="portuga02-bit"  src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white">
-  <img align="center" alt="portuga02-net"  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-</div>
-   
- ### OS 
-<div style="display: inline_block"> <br>
-    <img align="center" alt="portuga02-MYSQL"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-    <img align="center" alt="portuga02-MYSQL"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img align="center" alt="portuga02-MYSQL"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img align="center" alt="portuga02-MYSQL"  src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=whit">
-</div>
- 
-  
-  ### BD 
-<div style="display: inline_block"> <br>
-    <img align="center" alt="portuga02-PGSQL"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center" alt="portuga02-MYSQL"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="portuga02-sql-server" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
-   
-</div>
-  
-  ### Contato
-<div> 
-    <a href="https://instagram.com/portuga02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/hFg9mEBP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:saviogomesdasilvadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/savio-gomes-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Portuga02&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Portuga02&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180em" />
 </div>
 
+---
 
+### 🚀 Sobre Mim
+Sou um **Engenheiro de Software & Especialista em Desenvolvimento Web** focado em construir soluções robustas e escaláveis. Com uma base sólida no ecossistema PHP e JavaScript, atuo no desenvolvimento de aplicações Fullstack, priorizando boas práticas de arquitetura, performance e código limpo.
+
+- 👨‍💻 Atualmente focado em **Arquitetura de Software (SOLID, Design Patterns)**.
+- 🎓 Pós-graduado em Engenharia de Software e Especialista em Web Dev.
+- 🛠️ Experiência em modernização de sistemas legados e criação de APIs RESTful.
+- 📍 Baseado em Recife - PE.
+
+---
+
+### 🏆 Projetos em Destaque
+*Abaixo estão os projetos que melhor representam minha stack atual e padrão de arquitetura:*
+
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| [🌤️ SkyCast](https://github.com/Portuga02/skycast) | Plataforma de previsão do tempo em tempo real com consumo de API externa. | `Vue.js`, `API REST`, `JS` |
+| [📍 SkyMaps](https://github.com/Portuga02/SkyMaps) | Sistema de geolocalização e integração com mapas para visualização de dados. | `JavaScript`, `Maps API` |
+| [✅ Task Management](https://github.com/Portuga02/gerenciamento-tarefas) | Sistema completo de gestão de tarefas focado em organização e persistência. | `PHP`, `Laravel`, `MySQL` |
+| [📝 Todo List Vue](https://github.com/Portuga02/Todo) | Gerenciador de tarefas desenvolvido para explorar o ciclo de vida do Vue CLI. | `Vue.js`, `Vue CLI`, `CSS3` |
+
+---
+
+### 💻 Stack Tecnológica
+
+#### **Backend & Core**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### **Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### **Databases & OS**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Portuga02&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Conecte-se comigo
+<div align="left">
+  <a href="https://www.linkedin.com/in/savio-gomes-da-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saviogomesdasilvadev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/portuga02" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<p align="center"><i>"A vida é bela e o código deve ser limpo."</i></p>
