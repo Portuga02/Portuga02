@@ -2,9 +2,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Portuga02&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Portuga02&layout=compact&theme=tokyonight&hide=html,css)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Portuga02&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff" height="195" />
 </div>
 
 ---
@@ -53,9 +51,7 @@ Sou um **Engenheiro de Software & Especialista em Desenvolvimento Web** focado e
 
 ### 📊 GitHub Activity
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Portuga02&theme=tokyonight)
-
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Portuga02&theme=tokyonight" height="195" />
 </div>
 
 ---
