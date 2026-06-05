@@ -1,8 +1,10 @@
 # Olá, eu sou o Sávio Gomes! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Portuga02&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Portuga02&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180em" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Portuga02&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Portuga02&layout=compact&theme=tokyonight&hide=html,css)
+
 </div>
 
 ---
@@ -10,7 +12,7 @@
 ### 🚀 Sobre Mim
 Sou um **Engenheiro de Software & Especialista em Desenvolvimento Web** focado em construir soluções robustas e escaláveis. Com uma base sólida no ecossistema PHP e JavaScript, atuo no desenvolvimento de aplicações Fullstack, priorizando boas práticas de arquitetura, performance e código limpo.
 
-- 👨‍💻 Atualmente focado em **Arquitetura de Software (SOLID, Design Patterns)**.
+- 👨‍💻 Atualmente focado em **Arquitetura de Software (SOLID, Clean Code, DTO)**.
 - 🎓 Pós-graduado em Engenharia de Software e Especialista em Web Dev.
 - 🛠️ Experiência em modernização de sistemas legados e criação de APIs RESTful.
 - 📍 Recife - PE.
@@ -22,10 +24,10 @@ Sou um **Engenheiro de Software & Especialista em Desenvolvimento Web** focado e
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| [🌤️ SkyCast](https://github.com/Portuga02/skycast) | Plataforma de previsão do tempo em tempo real com consumo de API externa. | `Vue.js`, `API REST`, `JS` |
+| [🌩️ SkyRadar](https://github.com/Portuga02/skyradar) | API Gateway meteorológico integrando múltiplos radares e front-end reativo com Leaflet. | `Laravel`, `Vue.js`, `Tailwind` |
+| [🌤️ SkyCast PRO](https://github.com/Portuga02/skycast) | Plataforma de previsão do tempo em tempo real com consumo de API externa. | `Vue.js`, `API REST`, `JS` |
 | [📍 SkyMaps](https://github.com/Portuga02/SkyMaps) | Sistema de geolocalização e integração com mapas para visualização de dados. | `JavaScript`, `Maps API` |
 | [✅ Task Management](https://github.com/Portuga02/gerenciamento-tarefas) | Sistema completo de gestão de tarefas focado em organização e persistência. | `PHP`, `Laravel`, `MySQL` |
-| [📝 Todo List Vue](https://github.com/Portuga02/Todo) | Gerenciador de tarefas desenvolvido para explorar o ciclo de vida do Vue CLI. | `Vue.js`, `Vue CLI`, `CSS3` |
 
 ---
 
@@ -50,9 +52,11 @@ Sou um **Engenheiro de Software & Especialista em Desenvolvimento Web** focado e
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Portuga02&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Portuga02&theme=tokyonight)
+
+</div>
 
 ---
 
