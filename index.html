@@ -19,6 +19,7 @@
     --dim: #6b729c;
     --text: #d9daea;
     --text-dim: #8991b8;
+    --live: #4ade80;
   }
 
   *{ box-sizing: border-box; }
@@ -117,6 +118,7 @@
   .card-status{
     font-family:'JetBrains Mono', monospace; font-size: 10.5px; letter-spacing:.06em;
     text-transform: uppercase; color: var(--dim); margin-top: 14px;
+    display:flex; align-items:center; justify-content:space-between; gap: 10px;
   }
   .card.flagship{ border-color: var(--moon); background: var(--bg-panel-2); }
   .card-note{
@@ -128,6 +130,26 @@
     padding-top: 10px;
   }
   .card-gap b{ color: var(--moon); font-weight: 500; }
+
+  /* Cards that link out to a live deploy */
+  a.card{ text-decoration: none; color: inherit; cursor: pointer; }
+  a.card:focus-visible{ outline: 2px solid var(--moon); outline-offset: 2px; }
+  a.card .card-name::after{
+    content: '↗'; display:inline-block; margin-left: 6px; font-size: 13px;
+    color: var(--dim); transition: color .2s ease, transform .2s ease;
+  }
+  a.card:hover .card-name::after{ color: var(--moon); transform: translate(2px, -2px); }
+
+  .live-badge{
+    display:inline-flex; align-items:center; gap:5px; flex-shrink:0;
+    font-family:'JetBrains Mono', monospace; font-size: 10px; letter-spacing:.05em;
+    text-transform: uppercase; color: var(--live);
+    border: 1px solid rgba(74,222,128,.35); background: rgba(74,222,128,.08);
+    border-radius: 100px; padding: 3px 9px 3px 7px;
+  }
+  .live-badge .dot{ width: 5px; height: 5px; border-radius: 50%; background: var(--live); box-shadow: 0 0 6px var(--live); animation: pulse-dot 1.8s ease-in-out infinite; }
+  @keyframes pulse-dot{ 0%,100%{ opacity:1; } 50%{ opacity:.35; } }
+  @media (prefers-reduced-motion: reduce){ .live-badge .dot{ animation:none; } }
 
   /* SIGHTINGS */
   .sightings{
@@ -154,7 +176,9 @@
     display:flex; align-items:center; gap: 7px;
     font-family:'JetBrains Mono', monospace; font-size: 12px; color: var(--text-dim);
     border: 1px solid var(--line); border-radius: 100px; padding: 6px 12px 6px 10px;
+    text-decoration: none; transition: border-color .2s ease, color .2s ease;
   }
+  a.node:hover{ border-color: var(--violet); color: var(--text); }
   .dot{ width:6px; height:6px; border-radius:50%; background:#4ade80; box-shadow: 0 0 6px #4ade80; }
 
   footer{ margin-top: 90px; text-align:center; color: var(--dim); font-size: 12.5px; font-family:'JetBrains Mono', monospace; }
@@ -194,12 +218,12 @@
     </div>
     <div class="grid">
 
-      <div class="card flagship">
+      <a class="card flagship" href="https://skyflow-production-220e.up.railway.app/notes" target="_blank" rel="noopener noreferrer">
         <div class="card-top"><span class="card-name">SkyFlow</span><div class="moon m-finishing"></div></div>
         <div class="card-spec">Produtividade / SaaS (core da suíte)</div>
-        <div class="card-status">Finalizando</div>
+        <div class="card-status">Finalizando <span class="live-badge"><span class="dot"></span>ao vivo</span></div>
         <div class="card-note">Laravel 10 · Blade + Livewire · Tailwind · PostgreSQL</div>
-      </div>
+      </a>
 
       <div class="card">
         <div class="card-top"><span class="card-name">SkyBuild</span><div class="moon m-idea"></div></div>
@@ -255,26 +279,26 @@
     </div>
     <div class="grid">
 
-      <div class="card flagship">
+      <a class="card flagship" href="https://skycast-production.up.railway.app/" target="_blank" rel="noopener noreferrer">
         <div class="card-top"><span class="card-name">SkyCast PRO</span><div class="moon m-complete"></div></div>
         <div class="card-spec">Meteorologia de alta precisão — desambiguação geográfica e alertas em tempo real</div>
-        <div class="card-status">Completo</div>
+        <div class="card-status">Completo <span class="live-badge"><span class="dot"></span>ao vivo</span></div>
         <div class="card-note">Laravel 11 + Vue 3 (Composition API) · Tailwind · Laravel Reverb (WebSockets) · OpenWeatherMap</div>
-      </div>
+      </a>
 
-      <div class="card flagship">
+      <a class="card flagship" href="https://skyradar-production.up.railway.app/" target="_blank" rel="noopener noreferrer">
         <div class="card-top"><span class="card-name">SkyRadar</span><div class="moon m-complete"></div></div>
         <div class="card-spec">Monitoramento de alagamento (Recife) — API Gateway cruzando 3 fontes de clima em tempo real</div>
-        <div class="card-status">Completo</div>
+        <div class="card-status">Completo <span class="live-badge"><span class="dot"></span>ao vivo</span></div>
         <div class="card-note">API: Laravel 11 · Clean Architecture (Domain/Application/Infra) · DTO pattern · PostgreSQL<br>Web: Vue 3 · Leaflet.js · Tailwind · Vite · OpenWeatherMap + HG Brasil + Nominatim</div>
         <div class="card-gap">⚠ <b>Acesso:</b> público, somente leitura — sem login/Sanctum implementado. <b>Próximo passo:</b> camada hiperlocal (base própria de pontos de risco cruzada com chuva ao vivo).</div>
-      </div>
+      </a>
 
-      <div class="card">
+      <a class="card" href="https://skymaps-production.up.railway.app/" target="_blank" rel="noopener noreferrer">
         <div class="card-top"><span class="card-name">SkyMaps</span><div class="moon m-prototype"></div></div>
         <div class="card-spec">Trânsito e rotas</div>
-        <div class="card-status">Protótipo</div>
-      </div>
+        <div class="card-status">Protótipo <span class="live-badge"><span class="dot"></span>ao vivo</span></div>
+      </a>
 
       <div class="card">
         <div class="card-top"><span class="card-name">SkyHorizon</span><div class="moon m-idea"></div></div>
@@ -374,15 +398,15 @@
   <div class="infra">
     <div class="infra-label">Infraestrutura · Railway</div>
     <div class="infra-nodes">
-      <div class="node"><span class="dot"></span> sky-radar-web</div>
+      <a class="node" href="https://sky-radar-web-production.up.railway.app/" target="_blank" rel="noopener noreferrer"><span class="dot"></span> sky-radar-web</a>
       <div class="node"><span class="dot"></span> sky-radar-api</div>
       <div class="node"><span class="dot"></span> sky-databases</div>
-      <div class="node"><span class="dot"></span> skymaps</div>
-      <div class="node"><span class="dot"></span> skycast</div>
+      <a class="node" href="https://skymaps-production.up.railway.app/" target="_blank" rel="noopener noreferrer"><span class="dot"></span> skymaps</a>
+      <a class="node" href="https://skycast-production.up.railway.app/" target="_blank" rel="noopener noreferrer"><span class="dot"></span> skycast</a>
     </div>
   </div>
 
-  <footer>sky.suite — roadmap visual de senioridade · atualizado em julho de 2026</footer>
+  <footer>sky.suite — roadmap visual de senioridade · atualizado em agosto de 2026</footer>
 
 </main>
 
